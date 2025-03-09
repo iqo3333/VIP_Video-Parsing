@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIP视频解析</title>
+    <link rel="icon" href="https://f.cdn-static.cn/89444_17197237600112.png?imageView2/2/w/1024/q/89/format/webp" type="image/png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>🔗 VIP视频解析</h2>
+        <p class="subtitle">请选择线路并输入视频地址</p>
+
+        <select id="routeSelect" class="input-group">
+            <option value="1">夜幕解析</option>
+            <option value="2">PlayerJy解析</option>
+            <option value="3">七哥解析</option>
+            <option value="4">大米云解析</option>
+            <option value="5">闲鱼云解析</option>
+            <option value="6">七七云解析</option>
+        </select>
+
+        <div class="input-group">
+            <input 
+                type="text" 
+                id="videoUrl"
+                placeholder="请输入视频地址（例：https://v.qq.com/x/cover/...）"
+            >
+        </div>
+
+        <button onclick="handleRedirect()">🚀 立即解析</button>
+    </div>
+
+    <footer>
+        <div class="footer-right">
+            <a href="https://www.iqo3333.cn" target="_blank" class="footer-icon">
+                <img src="https://f.cdn-static.cn/89444_17197237600112.png?imageView2/2/w/1024/q/89/format/webp" alt="博客" class="icon-img">
+            </a>
+            <a href="https://github.com/iqo3333/VIP_Video-parsing" target="_blank" class="footer-icon">
+                <img src="https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739230092731/github.png" alt="GitHub" class="icon-img">
+            </a>
+        </div>
+        <p class="copyright">© Pro_Pro 2023-2025. All Rights Reserved</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
