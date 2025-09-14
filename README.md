@@ -43,5 +43,5 @@
 
 备用："https://iqo3333.github.io/speed"
 
-© LynnChe 2023-Present. All Rights Reserved
+© LinChe.LYC 2025. All Rights Reserved
 
