@@ -1,4 +1,4 @@
-# VIP视频解析（VIP Video parsing）
+# VIP视频解析（VIP Video Parsing）
 
 **🎬 网站功能简介**
 
