@@ -1,11 +1,11 @@
 # VIP视频解析（VIP Video Parsing）
 
 <p align="center" class="language" title="Language selection 语言选择">
-  <a href="README_en.md">🇺🇸English</a> | 
-<a href="README_ja_jp.md">🇯🇵日本語</a> | 
+  <a href="README_en.md">🇺🇸English❌</a> | 
+<a href="README_ja_jp.md">🇯🇵日本語❌</a> | 
     <b>🇭🇰繁體中文</b> | 
   <a href="README.md">🇨🇳简体中文</a> | 
-<a href="README_ko_kr.md">🇰🇷한국어</a> 
+<a href="README_ko_kr.md">🇰🇷한국어❌</a> 
 </p>
 
 **🎬 網站功能簡介**
