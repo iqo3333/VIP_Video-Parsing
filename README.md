@@ -1,5 +1,13 @@
 # VIP视频解析（VIP Video Parsing）
 
+<p align="center" class="language" title="Language selection 语言选择">
+  <a href="README_en.md">🇺🇸English</a> | 
+<a href="README_ja_jp.md">🇯🇵日本語</a> | 
+    <b>🇨🇳简体中文</b> | 
+  <a href="README_zh_hant.md">🇭🇰繁體中文</a> | 
+<a href="README_ko_kr.md">🇰🇷한국어</a> 
+</p>
+
 **🎬 网站功能简介**
 
 - [ ] 专为 爱奇艺、腾讯视频、优酷 等视频网站打造的视频解析工具💡，支持视频一键解析，让你轻松观看，无需烦恼付费或广告。
@@ -30,12 +38,6 @@
 - [ ] 线路状态可能因服务商调整而变化
 - [ ] 部分视频网站需要手动切换线路
 - [ ] 请遵守当地法律法规使用本工具
-
-**🔄 维护计划**
-- [ ] 持续更新解析接口
-
-- [ ] 25/10/01预计更新：支持繁体中文（仅限页面，不含解析后的播放器）
-
 
 **📌 访问预览页面"https://vip.iqo3333.cn" 🔗**
 
