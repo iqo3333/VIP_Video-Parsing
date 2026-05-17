@@ -1,4 +1,4 @@
-# VIP视频解析（VIP Video Parsing）
+# VIP视频解析（VIP Video Parsing）⚠️:停止更新與維護(Stop updating and maintenance)
 
 <p align="center" class="language" title="Language selection 语言选择">
   <a href="README_en.md">🇺🇸English❌</a> | 
